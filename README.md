@@ -1,8 +1,8 @@
-## Clón de Flappy Bird con Python y Pygame
+# Clón de Flappy Bird con Python y Pygame
 
 Tal y como lo sugiere su nombre, este es un clón de Flappy Bird hecho en Python, usando la librería Pygame.
 
-# Instalación
+## Instalación
 
 Primero, debemos tener Python con pip instalado en nuestro sistema operativo. Se puede encontrar en la página oficial:
 
@@ -24,9 +24,9 @@ py Juego.py
 
 Si el procedimiento a seguir fue el correcto, el juego se debería de iniciar sin problemas.
 
-# Gameplay
+## Gameplay
 
-El mismo de Flappy Bird. Se usa el click derecho para hacer saltar la palomita, hay que evitar chocar contra las tuberías, y
+El mismo de Flappy Bird. Se usa el click izquierdo para hacer saltar la palomita, hay que evitar chocar contra las tuberías, y
 obtener el mayor puntaje posible.
 
 
